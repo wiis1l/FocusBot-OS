@@ -73,7 +73,7 @@ More advanced servo animations
 Sound patterns for different modes
 📌 Author
 
-Wissal
+Wissal Arjdal
 Student & Embedded Systems Learner
 Focus: Arduino, Robotics, UI systems, and creative engineering projects
 
